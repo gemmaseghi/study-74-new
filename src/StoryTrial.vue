@@ -228,7 +228,7 @@ export default {
   name: "StoryTrial",
   props: {
     trial: { type: Object, required: true },
-    totalStories: { type: Number, default: 24 }
+    totalStories: { type: Number, default: 12 }
   },
   data() {
     return { commonQuestions, ...initialState(this.trial) };
