@@ -47,18 +47,18 @@ export default {
             </p>
 
             <p>
-              Anna und Tobi sind Zwillinge. Die beiden sind zwölf Jahre alt. Marie ist ihre kleine Schwester. Sie hat vor Kurzem ihren fünften Geburtstag gefeiert. 
+              Anna und Tobi sind Zwillinge. Die beiden sind 15 Jahre alt. Marie ist ihre kleine Schwester. Sie hat vor Kurzem ihren fünften Geburtstag gefeiert. 
             </p>
 
             <div class="instruction-images">
               <div class="instruction-image">
                 <img src="./Anna.jpg" alt="Anna">
-                <div class="image-caption">Anna (12 Jahre)</div>
+                <div class="image-caption">Anna (15 Jahre)</div>
               </div>
 
               <div class="instruction-image">
                 <img src="./Tobi.jpg" alt="Tobi">
-                <div class="image-caption">Tobi (12 Jahre)</div>
+                <div class="image-caption">Tobi (15 Jahre)</div>
               </div>
 
               <div class="instruction-image">

@@ -228,14 +228,14 @@ export default {
   name: "StoryTrial",
   props: {
     trial: { type: Object, required: true },
-    totalStories: { type: Number, default: 12 }
+    totalStories: { type: Number, default: 8 }
   },
   data() {
     return { commonQuestions, ...initialState(this.trial) };
   },
   computed: {
     childAge() {
-      return this.trial.childImage === "./Marie.jpg" ? 5 : 12;
+      return this.trial.childImage === "./Marie.jpg" ? 5 : 15;
     },
     completeUtteranceReminder() {
       return `${this.trial.utteranceReminder} „${this.trial.utterance}“`;
