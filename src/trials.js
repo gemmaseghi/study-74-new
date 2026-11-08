@@ -79,7 +79,7 @@ export const stories = [
           `Ihre Mutter sagt: „Pack bitte deine Sachen für den Urlaub ` +
           `in den Koffer. Er steht schon in deinem Zimmer.“ ` +
           `Marie geht in ihr Zimmer und spielt ein Spiel. ` +
-          `Ihre Mutter kommt herein und sagt: „Toll gemacht!“`,
+          `Ihre Mutter kommt herein und sagt:`,
 
         utterance: "Toll gemacht!",
 
@@ -117,7 +117,7 @@ export const stories = [
           `in den Koffer. Er steht schon in deinem Zimmer.“ ` +
           `Marie geht in ihr Zimmer und packt ihren Koffer. ` +
           `Als sie den gepackten Koffer gerade geschlossen hat, ` +
-          `kommt ihre Mutter herein und sagt: „Toll gemacht!“`,
+          `kommt ihre Mutter herein und sagt:`,
 
         utterance: "Toll gemacht!",
 
@@ -156,8 +156,8 @@ export const stories = [
           `Ihre Mutter sagt: „Pack bitte deine Sachen für den Urlaub ` +
           `in den Koffer. Er steht schon in deinem Zimmer.“ ` +
           `Marie geht in ihr Zimmer und spielt mit ihrer Puppe. ` +
-          `Ihre Mutter kommt herein und sagt: ` +
-          `„Du hast deinen Koffer noch nicht gepackt!“`,
+          `Ihre Mutter kommt herein und sagt:`,
+
 
         utterance: "Du hast deinen Koffer noch nicht gepackt!",
 
@@ -194,8 +194,7 @@ export const stories = [
           `Ihre Mutter sagt: „Pack bitte deine Sachen für den Urlaub ` +
           `in den Koffer. Er steht schon in deinem Zimmer.“ ` +
           `Marie geht in ihr Zimmer und spielt ein Spiel. ` +
-          `Ihre Mutter kommt herein und sagt: ` +
-          `„Mein Koffer ist schon gepackt. Kommm, wir fangen jetzt gemeinsam mit deinem an.“`,
+          `Ihre Mutter kommt herein und sagt: `,
 
         utterance:
           "Mein Koffer ist schon gepackt. Kommm, wir fangen jetzt gemeinsam mit deinem an.",
@@ -257,7 +256,7 @@ export const stories = [
           `Marie malt auf dem Esstisch ein Bild. Ihre Mutter sagt: ` +
           `„Bitte pass auf, dass du nur auf dem Papier malst.“ Kurz darauf ` +
           `hat Marie an mehreren Stellen auf den Tisch gemalt. Ihre Muttter ` +
-          `kommt herein und sagt: „Super gemacht!”`,
+          `kommt herein und sagt:`,
 
         utterance: "Super gemacht!",
 
@@ -293,7 +292,7 @@ export const stories = [
           `Marie malt auf dem Esstisch ein Bild aus. Ihre Mutter sagt: ` +
           `„Bitte pass auf, dass du nur auf dem Papier malst.“ Marie ist ` +
           `sehr vorsichtig unhd malt ihr Bild aus, ohne dabei auf den ` +
-          `Tisch zu malen. Ihre Mutter kommt herein und sagt: „Super gemacht!”`,
+          `Tisch zu malen. Ihre Mutter kommt herein und sagt:`,
 
         utterance: "Super gemacht!",
 
@@ -331,7 +330,7 @@ export const stories = [
           `Marie malt auf dem Esstisch ein Bild. Ihre Mutter sagt: ` +
           `„Bitte pass auf, dass du nur auf dem Papier malst.“ Kurz darauf ` +
           `hat Marie an mehreren Stellen auf den Tisch gemalt. Ihre Muttter ` +
-          `kommt herein und sagt: „Du hast den ganzen Tisch angemalt!“`,
+          `kommt herein und sagt:`,
 
         utterance: "Du hast den ganzen Tisch angemalt!",
 
@@ -367,7 +366,7 @@ export const stories = [
           `Marie malt auf dem Esstisch ein Bild. Ihre Mutter sagt: ` +
           `„Bitte pass auf, dass du nur auf dem Papier malst.“ Kurz darauf ` +
           `hat Marie an mehreren Stellen auf den Tisch gemalt. Ihre Muttter ` +
-          `kommt herein und sagt: „Keine Sorge! Ich hole einen Lappen und wir wischen das schnell ab.“`,
+          `kommt herein und sagt:`,
 
         utterance:
           "Keine Sorge! Ich hole einen Lappen und wir wischen das schnell ab.",
@@ -427,8 +426,7 @@ export const stories = [
 
         storyText:
           `Tobi und seine Mutter wollen Eis als Nachspeise essen. Tobi richtet das Eis in einem Eisbecher an. ` +
-          `Viele der Eiskugeln landen dabei aber auf dem Tisch anstatt im Becher. Seine Mutter sieht die Sauerei und sagt: ` +
-          `„Ich glaube, du bist bereit für eine eigene Eisdiele.“`,
+          `Viele der Eiskugeln landen dabei aber auf dem Tisch anstatt im Becher. Seine Mutter sieht die Sauerei und sagt: ` ,
 
         utterance: "Ich glaube, du bist bereit für eine eigene Eisdiele.",
 
@@ -462,8 +460,7 @@ export const stories = [
 
         storyText:
           `Tobi und seine Mutter wollen Eis als Nachspeise essen. Tobi richtet das Eis in einem Eisbecher an. ` +
-          `Er passt gut auf, dass nichts von dem Eis auf dem Tisch landet und verziert den Eisbecher dann schön mit Streuseln und einer Waffel. Seine Mutter sieht den Eisbecher und sagt: ` +
-          `„Ich glaube, du bist bereit für eine eigene Eisdiele.“`,
+          `Er passt gut auf, dass nichts von dem Eis auf dem Tisch landet und verziert den Eisbecher dann schön mit Streuseln und einer Waffel. Seine Mutter sieht den Eisbecher und sagt: `,
 
         utterance: "Ich glaube, du bist bereit für eine eigene Eisdiele.",
 
@@ -499,8 +496,7 @@ export const stories = [
 
         storyText:
           `Tobi und seine Mutter wollen Eis als Nachspeise essen. Tobi richtet das Eis in einem Eisbecher an. ` +
-          `Viele der Eiskugeln landen dabei aber auf dem Tisch anstatt im Becher. Seine Mutter sieht die Sauerei und sagt: ` +
-          `Ich denke, das solltest du lieber mir überlassen.“`,
+          `Viele der Eiskugeln landen dabei aber auf dem Tisch anstatt im Becher. Seine Mutter sieht die Sauerei und sagt: ` ,
 
         utterance: "Ich denke, das solltest du lieber mir überlassen.",
 
@@ -534,8 +530,7 @@ export const stories = [
 
         storyText:
           `Tobi und seine Mutter wollen Eis als Nachspeise essen. Tobi richtet das Eis in einem Eisbecher an. ` +
-          `Viele der Eiskugeln landen dabei aber auf dem Tisch anstatt im Becher. Seine Mutter sieht die Sauerei und sagt: ` +
-          `„Das kann jedem Mal passieren. Ich hole schnell einen Lappen.“`,
+          `Viele der Eiskugeln landen dabei aber auf dem Tisch anstatt im Becher. Seine Mutter sieht die Sauerei und sagt: `,
 
         utterance:
           "Das kann jedem Mal passieren. Ich hole schnell einen Lappen.",
@@ -598,7 +593,7 @@ export const stories = [
           `Vor der Schule sucht Annas Mutter ein schönes Kleid für Anna heraus und macht ihr die Haare. ` +
           `Dann machen Anna und ihre Mutter Frühstück. Beim Essen kleckert sich Anna voll und auf dem Kleid ist nun ` +
           `ein riesiger Fleck. Danach nimmt sie ihre Schultasche und will sich auf den Weg in die Schule machen. ` +
-          `Annas Mutter sagt: „Da freue ich mich schon auf die Klassenfotos, die ihr heute macht.“`,
+          `Annas Mutter sagt:`,
 
         utterance: "Da freue ich mich schon auf die Klassenfotos, die ihr heute macht.",
 
@@ -634,7 +629,7 @@ export const stories = [
           `Vor der Schule sucht Annas Mutter ein schönes Kleid für Anna heraus und macht ihr die Haare. ` +
           `Dann machen Anna und ihre Mutter Frühstück. Beim Essen passt Anna gut darauf auf, ihr schönes Kleid nicht vollzukleckern. ` +
           `Danach nimmt sie ihre Schultasche und will sich auf den Weg in die Schule machen. ` +
-          `Annas Mutter sagt: „Da freue ich mich schon auf die Klassenfotos, die ihr heute macht.“`,
+          `Annas Mutter sagt:`,
 
         utterance: "Da freue ich mich schon auf die Klassenfotos, die ihr heute macht.",
 
@@ -672,7 +667,7 @@ export const stories = [
           `Vor der Schule sucht Annas Mutter ein schönes Kleid für Anna heraus und macht ihr die Haare. ` +
           `Dann machen Anna und ihre Mutter Frühstück. Beim Essen kleckert sich Anna voll und auf dem Kleid ist nun ` +
           `ein riesiger Fleck. Danach nimmt sie ihre Schultasche und will sich auf den Weg in die Schule machen. ` +
-          `Annas Mutter sagt: „Du weißt aber schon, dass heute die Klassenfotos gemacht werden?“`,
+          `Annas Mutter sagt:`,
 
         utterance: "Du weißt aber schon, dass heute die Klassenfotos gemacht werden?",
 
@@ -708,7 +703,7 @@ export const stories = [
           `Vor der Schule sucht Annas Mutter ein schönes Kleid für Anna heraus und macht ihr die Haare. ` +
           `Dann machen Anna und ihre Mutter Frühstück. Beim Essen kleckert sich Anna voll und auf dem Kleid ist nun ` +
           `ein riesiger Fleck. Danach nimmt sie ihre Schultasche und will sich auf den Weg in die Schule machen. ` +
-          `Annas Mutter sagt: „Komm, wir suchen dir erst noch ein sauberes Kleid für die Klassenfotos heute aus.“`,
+          `Annas Mutter sagt:`,
 
         utterance:
           "Komm, wir suchen dir erst noch ein sauberes Kleid für die Klassenfotos heute aus.",
@@ -769,7 +764,7 @@ export const stories = [
         storyText:
           `Tobi hat Lust auf PLätzchen und entscheidet sich dazu, welche zu backen. Alles läuft gut. Während die Plätzchen im Ofen sind, ` +
           `geht Tobi ins Wohnzimmer und schaut fern. Dabei vergisst er die Plätzchen im Ofen. Als seine Mutter in die Küche kommt, sind die Plätzchen völlig verbrannt. ` +
-          `Tobi kommt in die Küche und seine Mutter sagt: „Wir sollten dich direkt für den nächsten Backwettbewerb anmelden.“`,
+          `Tobi kommt in die Küche und seine Mutter sagt:`,
 
         utterance: "Wir sollten dich direkt für den nächsten Backwettbewerb anmelden.",
 
@@ -804,7 +799,7 @@ export const stories = [
         storyText:
           `Tobi hat Lust auf Plätzchen und entscheidet sich dazu, welche zu backen. Alles läuft gut. Während die Plätzchen im Ofen sind, ` +
           `räumt Tobi die Küche auf und hat den Ofen dabei stets im Blick. Danach richtet er die wunderschönen Plätzchen auf einem Teller an. ` +
-          `Seine Mutter kommt herein und sagt: „Wir sollten dich direkt für den nächsten Backwettbewerb anmelden.“`,
+          `Seine Mutter kommt herein und sagt:`,
 
         utterance: "Wir sollten dich direkt für den nächsten Backwettbewerb anmelden.",
 
@@ -841,7 +836,7 @@ export const stories = [
         storyText:
           `Tobi hat Lust auf Plätzchen und entscheidet sich dazu, welche zu backen. Alles läuft gut. Während die Plätzchen im Ofen sind, ` +
           `geht Tobi ins Wohnzimmer und schaut fern. Dabei vergisst er die Plätzchen im Ofen. Als seine Mutter in die Küche kommt, sind die Plätzchen völlig verbrannt. ` +
-          `Tobi kommt in die Küche und seine Mutter sagt: „Ich glaube, dich sollte ich noch nicht allein in der Küche lassen.“`,
+          `Tobi kommt in die Küche und seine Mutter sagt:`,
 
         utterance: "Ich glaube, dich sollte ich noch nicht allein in der Küche lassen.",
 
@@ -876,7 +871,7 @@ export const stories = [
         storyText:
           `Tobi hat Lust auf Plätzchen und entscheidet sich dazu, welche zu backen. Alles läuft gut. Während die Plätzchen im Ofen sind, ` +
           `geht Tobi ins Wohnzimmer und schaut fern. Dabei vergisst er die Plätzchen im Ofen. Als seine Mutter in die Küche kommt, sind die Plätzchen völlig verbrannt. ` +
-          `Tobi kommt in die Küche und seine Mutter sagt: „Nicht so schlimm. Wir probieren es einfach nochmal gemeinsam.“`,
+          `Tobi kommt in die Küche und seine Mutter sagt:`,
 
         utterance:
           "Nicht so schlimm. Wir probieren es einfach nochmal.",
@@ -939,7 +934,7 @@ export const stories = [
           `in der Küche Plätzchen. Aus dem Fenster kann Tobis Mutter sehen, wie Tobi ` +
           `die Hühner streichelt. Tobi kommt wieder nach drinnen und läuft direkt in die Küche. ` +
           `Anna knetet gerade den Teig. Tobi geht zu ihr hin und sagt: „Mama, ich helfe Anna mit dem Teig.“ ` +
-          `Seine Mutter antwortet: „Da können wir uns heute auf richtig leckere Plätzchen freuen.“`,
+          `Seine Mutter antwortet:`,
 
         utterance: "Da können wir uns heute auf richtig leckere Plätzchen freuen.",
 
@@ -977,7 +972,7 @@ export const stories = [
           `die Hühner streichelt. Tobi kommt wieder nach drinnen und läuft direkt in die Küche. ` +
           `Anna knetet gerade den Teig. Tobi geht zum Waschbecken und wäscht sich die Hände. ` +
           `Dann geht er zu Anna hin und sagt: „Mama, ich helfe Anna mit dem Teig.“ ` +
-          `Seine Mutter antwortet: „Da können wir uns heute auf richtig leckere Plätzchen freuen.“`,
+          `Seine Mutter antwortet:`,
 
         utterance: "Da können wir uns heute auf richtig leckere Plätzchen freuen.",
 
@@ -1016,7 +1011,7 @@ export const stories = [
           `in der Küche Plätzchen. Aus dem Fenster kann Tobis Mutter sehen, wie Tobi ` +
           `die Hühner streichelt. Tobi kommt wieder nach drinnen und läuft direkt in die Küche. ` +
           `Anna knetet gerade den Teig. Tobi geht zu ihr hin und sagt: „Mama, ich helfe Anna mit dem Teig.“ ` +
-          `Seine Mutter antwortet: „Bevor du den Teig anfasst, denkst du erstmal drüber nach, was du vergessen hast!“`,
+          `Seine Mutter antwortet:`,
 
         utterance: "Bevor du den Teig anfasst, denkst du erstmal drüber nach, was du vergessen hast!",
 
@@ -1053,7 +1048,7 @@ export const stories = [
           `in der Küche Plätzchen. Aus dem Fenster kann Tobis Mutter sehen, wie Tobi ` +
           `die Hühner streichelt. Tobi kommt wieder nach drinnen und läuft direkt in die Küche. ` +
           `Anna knetet gerade den Teig. Tobi geht zu ihr hin und sagt: „Mama, ich helfe Anna mit dem Teig.“ ` +
-          `Seine Mutter antwortet: „Schön, dass du uns helfen möchtest! Davor waschen wir dir noch schnell die Hände.“`,
+          `Seine Mutter antwortet:`,
 
         utterance:
           "Schön, dass du uns helfen möchtest! Davor waschen wir dir noch schnell die Hände.",
@@ -1114,8 +1109,7 @@ export const stories = [
         storyText:
           `Annas Zimmer ist sehr unordentlich, während das Zimmer ihres Bruders Tobi ordentlich aufgeräumt ist. ` +
           `Die Mutter kommt in Annas Zimmer und sieht die Unordnung. Sie holt Anna zum Abendessen. Nach dem Abendessen fragt Annas Bruder Tobi: „Darf ich jetzt fernsehen?“ ` +
-          `Die Mutter sagt ja. Anna fragt: „Mama, darf ich auch fernsehen?“ Ihre Mutter antwortet: ` +
-          `„Klar doch! Wer so fließig ist, hat sich eine Belohnung verdient.“`,
+          `Die Mutter sagt ja. Anna fragt: „Mama, darf ich auch fernsehen?“ Ihre Mutter antwortet: ` ,
 
         utterance: "Klar doch! Wer so fließig ist, hat sich eine Belohnung verdient.",
 
@@ -1150,8 +1144,7 @@ export const stories = [
         storyText:
           `Annas Zimmer ist sehr ordentlich, genauso wie das Zimmer ihres Bruders Tobi. ` +
           `Die Mutter kommt in Annas Zimmer und sieht, dass Anna aufgeräumt hat. Sie holt Anna zum Abendessen. Nach dem Abendessen fragt Annas Bruder Tobi: „Darf ich jetzt fernsehen?“ ` +
-          `Die Mutter sagt ja. Anna fragt: „Mama, darf ich auch fernsehen?“ Ihre Mutter antwortet: ` +
-          `„Klar doch! Wer so fließig ist, hat sich eine Belohnung verdient.“`,
+          `Die Mutter sagt ja. Anna fragt: „Mama, darf ich auch fernsehen?“ Ihre Mutter antwortet: ` ,
 
         utterance: "Klar doch! Wer so fließig ist, hat sich eine Belohnung verdient.",
 
@@ -1188,8 +1181,7 @@ export const stories = [
         storyText:
           `Annas Zimmer ist sehr unordentlich, während das Zimmer ihres Bruders Tobi ordentlich aufgeräumt ist. ` +
           `Die Mutter kommt in Annas Zimmer und sieht die Unordnung. Sie holt Anna zum Abendessen. Nach dem Abendessen fragt Annas Bruder Tobi: „Darf ich jetzt fernsehen?“ ` +
-          `Die Mutter sagt ja. Anna fragt: „Mama, darf ich auch fernsehen?“ Ihre Mutter antwortet: ` +
-          `„Schau dir lieber erstmal das Zimmer von deinem Bruder an!“`,
+          `Die Mutter sagt ja. Anna fragt: „Mama, darf ich auch fernsehen?“ Ihre Mutter antwortet: ` ,
 
         utterance: "Schau dir lieber erstmal das Zimmer von deinem Bruder an!",
 
@@ -1224,8 +1216,7 @@ export const stories = [
         storyText:
           `Annas Zimmer ist sehr unordentlich, während das Zimmer ihres Bruders Tobi ordentlich aufgeräumt ist. ` +
           `Die Mutter kommt in Annas Zimmer und sieht die Unordnung. Sie holt Anna zum Abendessen. Nach dem Abendessen fragt Annas Bruder Tobi: „Darf ich jetzt fernsehen?“ ` +
-          `Die Mutter sagt ja. Anna fragt: „Mama, darf ich auch fernsehen?“ Ihre Mutter antwortet: ` +
-          `„Komm, wir räumen erst dein Zimmer auf und dann können wir alle zusammen einen Film anschauen.“`,
+          `Die Mutter sagt ja. Anna fragt: „Mama, darf ich auch fernsehen?“ Ihre Mutter antwortet: ` ,
 
         utterance:
           "Komm, wir räumen erst dein Zimmer auf und dann können wir alle zusammen einen Film anschauen.",
@@ -1288,8 +1279,7 @@ export const stories = [
           `Dann läuft sie ins Esszimmer und legt dort mehrere Einkaufstüten auf dem Tisch ab. ` +
           `Sie geht weiter ins Wohnzimmer, zieht ihre Jacke aus und lässt sie dort auf dem Boden liegen. ` +
           `Dann geht sie in ihr Zimmer. Später kommt Anna in die Küche, wo ihre Mutter gerade kocht. Anna sagt: ` +
-          `„Mama, die Nachbarn kommen doch bald zu Besuch, oder?“ Ihre Mutter antwortet: ` +
-          `„Ja, und sie werden sich bestimmt sehr willkommen bei uns fühlen.“`,
+          `„Mama, die Nachbarn kommen doch bald zu Besuch, oder?“ Ihre Mutter antwortet: `,
 
         utterance: "Ja, und sie werden sich bestimmt sehr willkommen bei uns fühlen.",
 
@@ -1326,8 +1316,7 @@ export const stories = [
           `Dann läuft sie ins Esszimmer, wo mehrere Einkaufstüten auf dem Tisch stehen und räumt diese weg. ` +
           `Sie geht weiter ins Wohnzimmer, wo eine Jacke auf dem Boden liegt. Sie hebt sie auf und räumt sie weg. ` +
           `Dann geht sie in ihr Zimmer. Später kommt Anna in die Küche, wo ihre Mutter gerade kocht. Anna sagt: ` +
-          `„Mama, die Nachbarn kommen doch bald zu Besuch, oder?“ Ihre Mutter antwortet: ` +
-          `„Ja, und sie werden sich bestimmt sehr willkommen bei uns fühlen.“`,
+          `„Mama, die Nachbarn kommen doch bald zu Besuch, oder?“ Ihre Mutter antwortet: ` ,
 
         utterance: "Ja, und sie werden sich bestimmt sehr willkommen bei uns fühlen.",
 
@@ -1366,8 +1355,7 @@ export const stories = [
           `Dann läuft sie ins Esszimmer und legt dort mehrere Einkaufstüten auf dem Tisch ab. ` +
           `Sie geht weiter ins Wohnzimmer, zieht ihre Jacke aus und lässt sie dort auf dem Boden liegen. ` +
           `Dann geht sie in ihr Zimmer. Später kommt Anna in die Küche, wo ihre Mutter gerade kocht. Anna sagt: ` +
-          `„Mama, die Nachbarn kommen doch bald zu Besuch, oder?“ Ihre Mutter antwortet: ` +
-          `„Ja. Und wegen dir haben wir davor noch einiges zu tun.“`,
+          `„Mama, die Nachbarn kommen doch bald zu Besuch, oder?“ Ihre Mutter antwortet: ` ,
 
         utterance: "Ja. Und wegen dir haben wir davor noch einiges zu tun.",
 
@@ -1404,8 +1392,7 @@ export const stories = [
           `Dann läuft sie ins Esszimmer und legt dort mehrere Einkaufstüten auf dem Tisch ab. ` +
           `Sie geht weiter ins Wohnzimmer, zieht ihre Jacke aus und lässt sie dort auf dem Boden liegen. ` +
           `Dann geht sie in ihr Zimmer. Später kommt Anna in die Küche, wo ihre Mutter gerade kocht. Anna sagt: ` +
-          `„Mama, die Nachbarn kommen doch bald zu Besuch, oder?“ Ihre Mutter antwortet: ` +
-          `„Ja. Lass uns davor die Wohnung noch ein bisschen aufräumen, damit sich unsere Gäste willkommen fühlen.“`,
+          `„Mama, die Nachbarn kommen doch bald zu Besuch, oder?“ Ihre Mutter antwortet: `,
 
         utterance:
           "Ja. Lass uns davor die Wohnung noch ein bisschen aufräumen, damit sich unsere Gäste willkommen fühlen.",
@@ -1467,16 +1454,16 @@ export function createList(listNumber) {
     return {
       storyId: story.storyId,
       level: story.level,
-      latinPosition:
-        story.latinPosition,
+      latinPosition: story.latinPosition,
 
       list: listNumber,
       condition,
 
-      situationQuestion:
-        story.situationQuestion,
-      
+      situationQuestion: story.situationQuestion,
+
       utteranceReminder: story.utteranceReminder,
+
+      audio: `./Story${story.storyId}_${condition.charAt(0).toUpperCase()}${condition.slice(1)}.wav`,
 
       ...version
     };

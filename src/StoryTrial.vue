@@ -13,12 +13,19 @@
       </div>
     </div>
     <div ref="questionPanel" class="question-panel">
-      <p
-        v-if="currentStep !== 'next'"
-        class="utterance-reminder"
-      >
-        {{ completeUtteranceReminder }}
+    <div class="utterance-reminder">
+      <p v-if="currentStep !== 'next'">
+        Die Mutter hat gesagt:
       </p>
+
+      <button
+        type="button"
+        class="audio-button"
+        @click="playUtterance"
+      >
+        🔊 Aussage anhören
+      </button>
+    </div>
 
     <div v-if="currentStep === 'next'" key="next" class="question-block">
       <p id="question-1" class="question-text">
@@ -231,7 +238,11 @@ export default {
     totalStories: { type: Number, default: 8 }
   },
   data() {
-    return { commonQuestions, ...initialState(this.trial) };
+    return {
+      commonQuestions,
+      audioPlayer: null,
+      ...initialState(this.trial)
+    };
   },
   computed: {
     childAge() {
@@ -258,13 +269,31 @@ export default {
     }
   },
   watch: {
-    // Also works when App.vue reuses this component for the next trial.
     trial() {
+      if (this.audioPlayer) {
+        this.audioPlayer.pause();
+        this.audioPlayer.currentTime = 0;
+        this.audioPlayer = null;
+      }
+
       Object.assign(this.$data, initialState(this.trial));
       this.resetQuestionScroll();
     }
   },
   methods: {
+    playUtterance() {
+      if (!this.audioPlayer) {
+        this.audioPlayer = new Audio();
+      }
+
+      this.audioPlayer.pause();
+      this.audioPlayer.currentTime = 0;
+      this.audioPlayer.src = this.trial.audio;
+
+      this.audioPlayer.play().catch(error => {
+        console.error("Audio konnte nicht abgespielt werden:", error);
+      });
+    },
     selectNext(optionId) {
       if (!this.submitted && this.currentStep === "next") this.nextResponse = optionId;
     },
@@ -388,6 +417,18 @@ export default {
 .continue-button:disabled {
   opacity: 0.45;
   cursor: not-allowed;
+}
+.audio-button {
+  padding: 12px 24px;
+  font-size: 18px;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  background-color: #e8e8e8;
+  color: #222;
+}
+.audio-button:hover {
+  background-color: #d5d5d5;
 }
 .story-container {
   display: flex;
