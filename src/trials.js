@@ -84,7 +84,7 @@ export const stories = [
         utterance: "Toll gemacht!",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "packs_marie",
@@ -122,7 +122,7 @@ export const stories = [
         utterance: "Toll gemacht!",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "plays_after_packing_marie",
@@ -162,7 +162,7 @@ export const stories = [
         utterance: "Du hast deinen Koffer noch nicht gepackt!",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "packs_marie",
@@ -200,7 +200,7 @@ export const stories = [
           "Mein Koffer ist schon gepackt. Kommm, wir fangen jetzt gemeinsam mit deinem an.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "pack_together_marie",
@@ -261,7 +261,7 @@ export const stories = [
         utterance: "Super gemacht!",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "wipe_marie",
@@ -297,7 +297,7 @@ export const stories = [
         utterance: "Super gemacht!",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "color_marie",
@@ -335,7 +335,7 @@ export const stories = [
         utterance: "Du hast den ganzen Tisch angemalt!",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "wipe_marie",
@@ -372,7 +372,7 @@ export const stories = [
           "Keine Sorge! Ich hole einen Lappen und wir wischen das schnell ab.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "wipe_together_marie",
@@ -431,7 +431,7 @@ export const stories = [
         utterance: "Ich glaube, du bist bereit für eine eigene Eisdiele.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "wipe_table",
@@ -465,7 +465,7 @@ export const stories = [
         utterance: "Ich glaube, du bist bereit für eine eigene Eisdiele.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "put_icecream",
@@ -501,7 +501,7 @@ export const stories = [
         utterance: "Ich denke, das solltest du lieber mir überlassen.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "wipe_table",
@@ -536,7 +536,7 @@ export const stories = [
           "Das kann jedem Mal passieren. Ich hole schnell einen Lappen.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "wipe_table_together",
@@ -598,7 +598,7 @@ export const stories = [
         utterance: "Da freue ich mich schon auf die Klassenfotos, die ihr heute macht.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "change_dress",
@@ -634,7 +634,7 @@ export const stories = [
         utterance: "Da freue ich mich schon auf die Klassenfotos, die ihr heute macht.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "go_to_school_clean_dress",
@@ -672,7 +672,7 @@ export const stories = [
         utterance: "Du weißt aber schon, dass heute die Klassenfotos gemacht werden?",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "change_dress",
@@ -709,7 +709,7 @@ export const stories = [
           "Komm, wir suchen dir erst noch ein sauberes Kleid für die Klassenfotos heute aus.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "change_dress_together",
@@ -769,7 +769,7 @@ export const stories = [
         utterance: "Wir sollten dich direkt für den nächsten Backwettbewerb anmelden.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "bake_again",
@@ -804,7 +804,7 @@ export const stories = [
         utterance: "Wir sollten dich direkt für den nächsten Backwettbewerb anmelden.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "eat_cookies",
@@ -841,7 +841,7 @@ export const stories = [
         utterance: "Ich glaube, dich sollte ich noch nicht allein in der Küche lassen.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "bake_again",
@@ -877,7 +877,7 @@ export const stories = [
           "Nicht so schlimm. Wir probieren es einfach nochmal.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "bake_again_together",
@@ -939,7 +939,7 @@ export const stories = [
         utterance: "Da können wir uns heute auf richtig leckere Plätzchen freuen.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "wash_hands",
@@ -977,7 +977,7 @@ export const stories = [
         utterance: "Da können wir uns heute auf richtig leckere Plätzchen freuen.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "knead_dough",
@@ -1016,7 +1016,7 @@ export const stories = [
         utterance: "Bevor du den Teig anfasst, denkst du erstmal drüber nach, was du vergessen hast!",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "wash_hands",
@@ -1054,7 +1054,7 @@ export const stories = [
           "Schön, dass du uns helfen möchtest! Davor waschen wir dir noch schnell die Hände.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "wash_hands_together",
@@ -1114,7 +1114,7 @@ export const stories = [
         utterance: "Klar doch! Wer so fließig ist, hat sich eine Belohnung verdient.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "tidy_the_room",
@@ -1149,7 +1149,7 @@ export const stories = [
         utterance: "Klar doch! Wer so fließig ist, hat sich eine Belohnung verdient.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "watch_television",
@@ -1186,7 +1186,7 @@ export const stories = [
         utterance: "Schau dir lieber erstmal das Zimmer von deinem Bruder an!",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "tidy_the_room",
@@ -1222,7 +1222,7 @@ export const stories = [
           "Komm, wir räumen erst dein Zimmer auf und dann können wir alle zusammen einen Film anschauen.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "tidy_the_room_together",
@@ -1284,7 +1284,7 @@ export const stories = [
         utterance: "Ja, und sie werden sich bestimmt sehr willkommen bei uns fühlen.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "remove_bags",
@@ -1321,7 +1321,7 @@ export const stories = [
         utterance: "Ja, und sie werden sich bestimmt sehr willkommen bei uns fühlen.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "go_to_room",
@@ -1360,7 +1360,7 @@ export const stories = [
         utterance: "Ja. Und wegen dir haben wir davor noch einiges zu tun.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "remove_bags",
@@ -1398,7 +1398,7 @@ export const stories = [
           "Ja. Lass uns davor die Wohnung noch ein bisschen aufräumen, damit sich unsere Gäste willkommen fühlen.",
 
         nextQuestion: {
-          question: "Was passiert als Nächstes?",
+          question: "Was sollte als Nächstes passieren?",
           options: [
             {
               id: "remove_bags_together",
